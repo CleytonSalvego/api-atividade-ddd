@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wKvXTPEjDrAewoxiAE+1MQ16E6R6fnoGcJ7zgEROJL/vwuRo8uuj3N+zdfCWOmXCsmxPLOTs20dtmyCAcZq60w==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\10 - ASP.NET\\api-atividade-ddd\\Atividade.Dominio\\Atividade.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cleyton\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

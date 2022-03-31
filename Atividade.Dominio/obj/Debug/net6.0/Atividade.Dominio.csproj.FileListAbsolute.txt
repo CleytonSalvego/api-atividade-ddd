@@ -1,0 +1,12 @@
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\bin\Debug\net6.0\Atividade.Dominio.deps.json
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\bin\Debug\net6.0\Atividade.Dominio.dll
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\bin\Debug\net6.0\Atividade.Dominio.pdb
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\obj\Debug\net6.0\Atividade.Dominio.csproj.AssemblyReference.cache
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\obj\Debug\net6.0\Atividade.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\obj\Debug\net6.0\Atividade.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\obj\Debug\net6.0\Atividade.Dominio.AssemblyInfo.cs
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\obj\Debug\net6.0\Atividade.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\obj\Debug\net6.0\Atividade.Dominio.dll
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\obj\Debug\net6.0\refint\Atividade.Dominio.dll
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\obj\Debug\net6.0\Atividade.Dominio.pdb
+C:\Projetos\10 - ASP.NET\api-atividade-ddd\Atividade.Dominio\obj\Debug\net6.0\ref\Atividade.Dominio.dll
