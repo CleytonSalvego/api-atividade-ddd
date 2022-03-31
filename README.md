@@ -1,4 +1,4 @@
-﻿## API para controle de atividades
+﻿## API para controle de atividades ## EM CONSTRUÇÃO
  
 #### Esta API foi construida através do curso da plataforma Balta.io colocando em prática o DDD, CQRS, EF 6 e Autenticação por token com JWT Token.
  
